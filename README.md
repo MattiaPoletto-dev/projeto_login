@@ -11,4 +11,5 @@
 https://mattiapoletto-dev.github.io/projeto_login/
 
 ## Melhorias futuras
+- [ ] Substituir partes por tecnologias atuais (flexbox ou grid)
 - [ ] Adicionar JavaScript
